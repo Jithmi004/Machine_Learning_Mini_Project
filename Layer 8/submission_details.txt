@@ -1,0 +1,7 @@
+submission 1 - all labels with halving grid ssearch for c and gamma and svm
+submission 2 - all except 3rd label with the initial svm model and without hyperparameter tuning
+
+Todo
+
+submission with hyperparameter tuning for more parameters
+pca
