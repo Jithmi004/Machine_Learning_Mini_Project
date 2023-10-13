@@ -5,3 +5,5 @@ Layer 8/test.csv
 Layer 8/valid.csv
 Layer 8/train.csv
 Layer 11/predicted_label_1_before_feature_engineering.csv
+Conference Paper/layer_8_test.csv
+Conference Paper/layer_8_valid.csv
